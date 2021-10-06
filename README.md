@@ -1,3 +1,5 @@
+[![Header for Patrizio Sotgiu](assets/images/header-patrizio-sotgiu.jpg)](http://patriziosotgiu.com/)
+
 # Ciao! 👋
 
 ## 📓 About me
@@ -14,12 +16,12 @@ Today, I love **bridging the gap between design and development**.
 
 ## 💼 Work
 
-Software Engineer (UX) at [Salesforce](https://www.salesforce.com/).  
+Software Engineer (UI/UX) at [Salesforce](https://www.salesforce.com/).  
 Currently on the [Trailhead](https://trailhead.salesforce.com/) Slack team. Previously on the [Trailhead Live](trailhead.salesforce.com/live), and [DSC Tools](developer.salesforce.com) teams
 
 Before Salesforce, I worked at startups, agencies and had fun running my own business.
 
-## 📫 How to reach me
+## 📫 Connect
 
 - Personal Website: <http://patriziosotgiu.com/> (⚙️ _Something new is in the works..._)
 - Dev Playground: <https://patrizio.dev/> (⚙️ _Stay tuned!_)
@@ -35,7 +37,4 @@ You can also find me in the **Design Systems** Slack community at <https://desig
 - 📷 Photography
 - 🕹️ Building cool retro gaming devices in the spare time.
 
-<!-- - 🌱 I’m currently learning ... -->
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
+![Footer divider](assets/images/footer-divider.jpg)
