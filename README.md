@@ -1,8 +1,6 @@
-[![Header for Patrizio Sotgiu](assets/images/header-patrizio-sotgiu.jpg)](http://patriziosotgiu.com/)
+# [![Header for Patrizio Sotgiu](assets/images/header-patrizio-sotgiu.jpg)](http://patriziosotgiu.com/)
 
-# Ciao! 👋
-
-## 📓 About me
+## 📓 About
 
 Born in [Tivoli](https://en.wikipedia.org/wiki/Tivoli,_Lazio), a small historic town near Rome (Italy). I later moved to New York, and now in San Francisco.
 
