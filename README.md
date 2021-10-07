@@ -10,12 +10,12 @@ Born in [Tivoli](https://en.wikipedia.org/wiki/Tivoli,_Lazio), a small historic 
 - A magazine about [Macromedia Flash](https://en.wikipedia.org/wiki/Adobe_Flash) got me into web development.
 
 Started with design, got curious about back-end, found the sweet spot in between.  
-Today, I love **bridging the gap between design and development**.
+Today, I love **bridging the gap between design and engineering**.
 
 ## 💼 Work
 
 Software Engineer (UI/UX) at [Salesforce](https://www.salesforce.com/).  
-Currently on the [Trailhead](https://trailhead.salesforce.com/) Slack team. Previously on the [Trailhead Live](trailhead.salesforce.com/live), and [DSC Tools](developer.salesforce.com) teams
+Currently on the [Trailhead](https://trailhead.salesforce.com/) Slack team. Previously on the [Trailhead Live](trailhead.salesforce.com/live), and [DSC Tools](developer.salesforce.com) teams.
 
 Before Salesforce, I worked at startups, agencies and had fun running my own business.
 
@@ -33,6 +33,6 @@ You can also find me in the **Design Systems** Slack community at <https://desig
 - 💻 Anything related to CSS and design systems
 - 🏂 Snowboarding
 - 📷 Photography
-- 🕹️ Building cool retro gaming devices in the spare time.
+- 🕹️ Building cool retro gaming devices in the spare time
 
 ![Footer divider](assets/images/footer-divider.jpg)
