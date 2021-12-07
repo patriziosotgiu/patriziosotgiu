@@ -14,8 +14,8 @@ Today, I love **bridging the gap between design and engineering**.
 
 ## 💼 Work
 
-Software Engineer (UI/UX) at [Salesforce](https://www.salesforce.com/).  
-Currently on the [Trailhead](https://trailhead.salesforce.com/) Slack team. Previously on the [Trailhead Live](trailhead.salesforce.com/live), and [DSC Tools](developer.salesforce.com) teams.
+Lead UX Engineer at [Salesforce](https://www.salesforce.com/).  
+Currently on the [Design System](https://www.lightningdesignsystem.com/) team. Previously on [Trailhead Slack](https://trailhead.salesforce.com/en/slack) ([App](https://salesforce-internal.slack.com/apps/A02CBL2KKDE-trailhead)), [Trailhead Live](https://trailhead.salesforce.com/live), and [DSC Tools](https://developer.salesforce.com).
 
 Before Salesforce, I worked at startups, agencies and had fun running my own business.
 
